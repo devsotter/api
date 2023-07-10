@@ -1,0 +1,14 @@
+* {
+  padding: 0;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  padding-top: 90px;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
