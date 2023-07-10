@@ -12,3 +12,18 @@ img {
   max-width: 100%;
   height: auto;
 }
+
+.loading {
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 600px;
+  width: 985px;
+  background: linear-gradient(#212121, #f7d354);
+
+}
+
+
