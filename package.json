@@ -1,5 +1,5 @@
 {
-  "homepage": "https://devsotter.github.io/movies-lib-api-react",
+  "homepage": "https://devsotter/github.io/movies-lib-api-react",
   "name": "movie_lib",
   "private": true,
   "version": "0.0.0",
@@ -8,6 +8,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "predeploy": "npm run build"
+ 
   },
   "dependencies": {
     "gh-pages": "^5.0.0",
